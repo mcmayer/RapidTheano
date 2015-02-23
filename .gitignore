@@ -1,0 +1,11 @@
+*.pdf
+*.log
+*.pyg
+.Rhistory
+.RData
+*.mp4
+*.pyc
+*.png
+*.pkl
+*.json
+.DS_Store
